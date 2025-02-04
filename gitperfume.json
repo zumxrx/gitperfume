@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Git HUb",
+    "price": "399.00",
+    "description": "A powerful fresh spicy-ambery fragrance",
+    "imageUrl": "https://example.com/dior_sauvage.jpg",
+    "category": "Men's Perfume"
+  },
+  {
+    "id": "2",
+    "name": "Git 2",
+    "price": "499.00",
+    "description": "A timeless floral-aldehyde fragrance",
+    "imageUrl": "https://example.com/chanel_no5.jpg",
+    "category": "Women's Perfume"
+  }
+]
